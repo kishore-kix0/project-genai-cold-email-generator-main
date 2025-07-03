@@ -24,11 +24,21 @@ Cold email generator for services company using groq, langchain and streamlit. I
    ```commandline
    streamlit run app/main.py
    ```
-   
+   Benefits:
+
+Saves time (especially when emailing hundreds).
+
+Personalizes at scale.
+
+Increases reply rate with better-written messages.
+
+Reduces writer's block.
+
+
 
 Copyright (C) Codebasics Inc. All rights reserved.
 
 **Additional Terms:**
 This software is licensed under the MIT License. However, commercial use of this software is strictly prohibited without prior written permission from the author. Attribution must be given in all copies or substantial portions of the software.
 
-this helps you in the generating a mail
+
